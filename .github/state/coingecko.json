@@ -629,37 +629,6 @@
       }
     },
     {
-      "coingecko_id": "axlwbtc",
-      "name": "axlWBTC",
-      "symbol": "AXLWBTC",
-      "assets": [
-        {
-          "chain_name": "axelar",
-          "base_denom": "wbtc-satoshi"
-        },
-        {
-          "chain_name": "dyson",
-          "base_denom": "ibc/9BF31153F7E37F687C75A2F310E7A4DB6E0512B065F709B5EB69FE828133AFAC"
-        },
-        {
-          "chain_name": "neutron",
-          "base_denom": "ibc/DF8722298D192AAB85D86D0462E8166234A6A9A572DD4A2EA7996029DF4DB363"
-        },
-        {
-          "chain_name": "nolus",
-          "base_denom": "ibc/84E70F4A34FB2DE135FD3A04FDDF53B7DA4206080AA785C8BAB7F8B26299A221"
-        },
-        {
-          "chain_name": "osmosis",
-          "base_denom": "ibc/D1542AA8762DB13087D8364F3EA6509FD6F009A34F00426AF9E4F9FA85CBBF1F"
-        }
-      ],
-      "origin_asset": {
-        "chain_name": "axelar",
-        "base_denom": "wbtc-satoshi"
-      }
-    },
-    {
       "coingecko_id": "babylon",
       "name": "Babylon",
       "symbol": "BABY",
@@ -2741,21 +2710,6 @@
       }
     },
     {
-      "coingecko_id": "drop-staked-ntrn",
-      "name": "Drop Staked NTRN",
-      "symbol": "DNTRN",
-      "assets": [
-        {
-          "chain_name": "neutron",
-          "base_denom": "factory/neutron1frc0p5czd9uaaymdkug2njz7dc7j65jxukp9apmt9260a8egujkspms2t2/udntrn"
-        }
-      ],
-      "origin_asset": {
-        "chain_name": "neutron",
-        "base_denom": "factory/neutron1frc0p5czd9uaaymdkug2njz7dc7j65jxukp9apmt9260a8egujkspms2t2/udntrn"
-      }
-    },
-    {
       "coingecko_id": "drop-staked-atom",
       "name": "Drop Staked ATOM",
       "symbol": "DATOM",
@@ -2849,25 +2803,6 @@
       "origin_asset": {
         "chain_name": "ethereum",
         "base_denom": "0x3231Cb76718CDeF2155FC47b5286d82e6eDA273f"
-      }
-    },
-    {
-      "coingecko_id": "noble-dollar-usdn",
-      "name": "Noble Dollar (USDN)",
-      "symbol": "USDN",
-      "assets": [
-        {
-          "chain_name": "noble",
-          "base_denom": "uusdn"
-        },
-        {
-          "chain_name": "osmosis",
-          "base_denom": "ibc/0C39BD03B5C57A1753A9B73164705871A9B549F1A5226CFD7E39BE7BF73CF8CF"
-        }
-      ],
-      "origin_asset": {
-        "chain_name": "noble",
-        "base_denom": "uusdn"
       }
     },
     {
@@ -5084,21 +5019,6 @@
       "origin_asset": {
         "chain_name": "moonbeam",
         "base_denom": "0xacc15dc74880c9944775448304b263d191c6077f"
-      }
-    },
-    {
-      "coingecko_id": "namada",
-      "name": "Namada",
-      "symbol": "NAM",
-      "assets": [
-        {
-          "chain_name": "namada",
-          "base_denom": "unam"
-        }
-      ],
-      "origin_asset": {
-        "chain_name": "namada",
-        "base_denom": "unam"
       }
     },
     {
